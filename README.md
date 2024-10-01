@@ -1,2 +1,4 @@
-# warehouse ms
+# warehouse management system
+# npm install
+# npm run dev
  
